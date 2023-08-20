@@ -1,4 +1,4 @@
-![logo](https://github.com/Abdelkodouss-ELFATAOUY/Abdelkodouss-ELFATAOUY/blob/main/Riverside%20High%20School%20Computer%20Club.png)
+![logo](https://github.com/Abdelkodouss-ELFATAOUY/Abdelkodouss-ELFATAOUY/blob/main/Riverside%20High%20School%20Computer%20Club%20(3).png)
 <h1 align="center">Hi 👋, I'm Abdelkodouss-ELFATAOUY</h1>
 <h3 align="center">Electrical engineer⚡Embedded electronic systems from Morroco</h3>
 
